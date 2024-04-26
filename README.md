@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan51423&label=Profile%20views&color=0e75b6&style=flat" alt="chetan51423" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetan51423" alt="chetan51423" /></a> </p>
+
 
 - 🔭 I’m currently working on [Full-Stack ToDo Application](https://my-todo-machine.netlify.app/)
 
