@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/Chetan51423/Chetan51423/assets/94549278/e4e37e89-b0a1-404d-9f82-ef6b72bb4d85)
-1600/2000_600px.gif)](https://rishavchanda.io)
+](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Chetan Shinde</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
